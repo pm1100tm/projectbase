@@ -3,5 +3,6 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
+  "prettier.trailingComma": "none",
   "files.trimTrailingWhitespace": true
 }

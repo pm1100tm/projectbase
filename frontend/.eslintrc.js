@@ -2,27 +2,27 @@ module.exports = {
   env: {
     browser: true,
     es2021: true,
-    jest: true,
+    jest: true
   },
   extends: [
     'airbnb',
     'plugin:@typescript-eslint/recommended',
     'plugin:react/recommended',
     'plugin:react/jsx-runtime',
-    'prettier',
+    'prettier'
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 'latest',
-    sourceType: 'module',
+    sourceType: 'module'
   },
   plugins: ['react', '@typescript-eslint'],
   settings: {
     'import/resolver': {
       node: {
-        extensions: ['.js', '.jsx', '.ts', '.tsx'],
-      },
-    },
+        extensions: ['.js', '.jsx', '.ts', '.tsx']
+      }
+    }
   },
   rules: {
     indent: ['error', 2],
@@ -52,9 +52,9 @@ module.exports = {
           '**/*.test.js',
           '**/*.test.jsx',
           '**/*.test.ts',
-          '**/*.test.tsx',
-        ],
-      },
+          '**/*.test.tsx'
+        ]
+      }
     ],
     'import/extensions': [
       'error',
@@ -63,16 +63,16 @@ module.exports = {
         js: 'never',
         jsx: 'never',
         ts: 'never',
-        tsx: 'never',
-      },
+        tsx: 'never'
+      }
     ],
     'react/jsx-filename-extension': [
       2,
       {
-        extensions: ['.js', '.jsx', '.ts', '.tsx'],
-      },
+        extensions: ['.js', '.jsx', '.ts', '.tsx']
+      }
     ],
     'jsx-a11y/label-has-associated-control': ['error', { assert: 'either' }],
-    'jsx-quotes': [2, 'prefer-single'],
-  },
+    'jsx-quotes': [2, 'prefer-single']
+  }
 };

@@ -1,21 +1,21 @@
 module.exports = {
   env: {
     es2021: true,
-    node: true,
+    node: true
   },
   extends: ['airbnb', 'plugin:@typescript-eslint/recommended', 'prettier'],
   parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 'latest',
-    sourceType: 'module',
+    sourceType: 'module'
   },
   plugins: ['@typescript-eslint'],
   settings: {
     'import/resolver': {
       node: {
-        extensions: ['.js', '.jsx', '.ts', '.tsx'],
-      },
-    },
+        extensions: ['.js', '.jsx', '.ts', '.tsx']
+      }
+    }
   },
   rules: {
     indent: ['error', 2],
@@ -31,7 +31,8 @@ module.exports = {
     'keyword-spacing': ['error', { before: true, after: true }],
     'comma-spacing': ['error', { before: false, after: true }],
     'comma-style': ['error', 'last'],
-    'comma-dangle': ['error', 'always-multiline'],
+    // 'comma-dangle': ['error', 'always-multiline'],
+    'comma-dangle': ['error', 'never'],
     'space-in-parens': ['error', 'never'],
     'block-spacing': 'error',
     'array-bracket-spacing': ['error', 'never'],
@@ -45,9 +46,9 @@ module.exports = {
           '**/*.test.js',
           '**/*.test.jsx',
           '**/*.test.ts',
-          '**/*.test.tsx',
-        ],
-      },
+          '**/*.test.tsx'
+        ]
+      }
     ],
     'import/extensions': [
       'error',
@@ -56,10 +57,10 @@ module.exports = {
         js: 'never',
         jsx: 'never',
         ts: 'never',
-        tsx: 'never',
-      },
+        tsx: 'never'
+      }
     ],
     'jsx-a11y/label-has-associated-control': ['error', { assert: 'either' }],
-    'jsx-quotes': [2, 'prefer-single'],
-  },
+    'jsx-quotes': [2, 'prefer-single']
+  }
 };
