@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "oNcsS_VX6uO2VsQhup0kUYHdiiA",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 16937,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "41Fcl7Qkdr2Z8wnPPioTINPVybk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4ZPtJH7AcLA"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-05T20:00:03Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "@ItaloFerreiraoficial having breakfast this AM at Pipeline 🤩",
+        "description": "Pipeline #Hawaii #ItaloFerreira.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ZPtJH7AcLA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ZPtJH7AcLA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ZPtJH7AcLA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-05T20:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bWOJSY432jB4RQwHozcJ2xVBhVM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8yAAbS308qc"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-21T17:35:05Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "What are you riding at Sunset?",
+        "description": "What are you riding at Sunset? The Red Bull squad talk us through their big wave blades as the Hawaiian season gets ready to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8yAAbS308qc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8yAAbS308qc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8yAAbS308qc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-21T17:35:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fKudmcW7j9koWhZkEHHbPr0hgAI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WA2mrQekDTQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-08T21:00:19Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "10 Questions with Caity Simmers",
+        "description": "Get to know Oceanside's CT phenom @caitysimmers in a new episode of #InPlainSight, live now on Red Bull TV! Hit the link to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WA2mrQekDTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WA2mrQekDTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WA2mrQekDTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-08T21:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NFSn7m_PbI07GATm62NE-pnin7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b7Pl5Rr8ZYk"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-01T19:14:10Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "The BEST of Surfing in 2022",
+        "description": "What a year. 2022 was packed to the gills with everything the surfing world has to offer. Whether it be seemingly endless historic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-01T19:14:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "74wXzd_6b5S-l5U9qEQHOZFb8G8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PsPlGZg47T0"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-03T16:50:52Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Drawing All the Lines with Dimitri Poulos",
+        "description": "Drawing all the lines with Dimitri Poulos #DimitriPoulos #FreeSurfing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PsPlGZg47T0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PsPlGZg47T0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PsPlGZg47T0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-03T16:50:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DbnDmGDITTdILfAA9Wk6IfZk1zY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wxdVHfKKDN0"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-13T02:17:28Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "A First Person View of Nazare",
+        "description": "Natxo Gonzalez takes you for a driver's seat view of what it's like to navigate the waters of Nazare #NatxoGonzalez ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wxdVHfKKDN0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wxdVHfKKDN0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wxdVHfKKDN0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-13T02:17:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A62wjuQkUluKCO9qyphdoUD6Gd4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M_RIg8vDj-c"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-15T20:16:53Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Kai Lenny at Nazare",
+        "description": "Kai Lenny brings us all along for a driver's seat view of a massive ride at Nazare #KaiLenny #Nazare #BigWaveSurfing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M_RIg8vDj-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M_RIg8vDj-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M_RIg8vDj-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-15T20:16:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cgD3uGMZ_LWe-s0uk4HtA8cKWoE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yh1D363WMTQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-21T21:34:57Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "No Contest Heads to MOROCCO",
+        "description": "No Contest heads to the west coast of North Africa, exploring Berber culture, cuisine and surf breaks along the 490 km stretch of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yh1D363WMTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yh1D363WMTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yh1D363WMTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-21T21:34:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nXp-3d5nXSLSZyS1KA9KBz7kXYk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dHTQL5HCjlc"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-11T19:00:02Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Raw and Unfiltered XXL Teahupo&#39;o",
+        "description": "We've exposed the Endless Summer as a lie. Truth is, most of the world's finer corners get their best waves during winter months ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dHTQL5HCjlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dHTQL5HCjlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dHTQL5HCjlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-11T19:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qpkQxiEaHtPOmghnn4hEkwM78hA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6fwXWqEf7g8"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-10T23:43:30Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "How Do Big Wave Surfers Really Prep for a Session?",
+        "description": "\"Don't mind him. He'll tell you to set your alarm for 5:30 and then wake up at 7\" Dive into all the antics and action of @IanWalsh's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6fwXWqEf7g8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6fwXWqEf7g8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6fwXWqEf7g8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-10T23:43:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "omugrDX1rPs7EBoHXmz92rQza2Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kFjETSa9N7A"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-22T18:30:01Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Indian Ocean Mega Swell Hits Australia | Filmers @ Large",
+        "description": "Subscribe to our new Red Bull Surfing channel: https://win.gs/SubToRedBullSurfing The Indian Ocean's swell of the century hit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kFjETSa9N7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kFjETSa9N7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kFjETSa9N7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-22T18:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YcULrmilaGiuPmZBXOE54Ic1TIo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "64TVdQAsxWY"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-09T20:00:01Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Kai Lenny Is BACK | Life Of Kai OFFICIAL TRAILER",
+        "description": "\"Life of Kai\" is back! Kai Lenny continues to redefine what is possible on the world's biggest waves, pushing himself to become the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/64TVdQAsxWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/64TVdQAsxWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/64TVdQAsxWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-09T20:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l1c9b8WOh-Ey8A6zyQLuLrY_bmE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VPTqBRPkRR4"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-21T02:06:40Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Life of Kai Top Moments #5",
+        "description": "In anticipation of year 3 of Life of Kai, we'll be sharing the Top 5 Moments from the last 2 years. Coming in at number 5, Kai going ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VPTqBRPkRR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VPTqBRPkRR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VPTqBRPkRR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-21T02:06:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Oc_LkdOk6NfdglW1UkXbhk6D214",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9XelSH8gIMw"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-27T17:46:07Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Is Lucas Chumbo the BEST Big Wave Surfer on Earth?",
+        "description": "We're LIVE: Brazilian hellman Lucas Chumbo showcases his outrageous skills in his latest edit, featuring the best of his past two ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9XelSH8gIMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9XelSH8gIMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9XelSH8gIMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-27T17:46:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2PoA8Wq9iDPR9YIlwnlDz0tGgo8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gQmIdKYWMdo"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-25T19:29:03Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Are Round-House Cut Back Undefeated?",
+        "description": "\"100%, I think it's one of my favorite turns still!\" Dive in now for all the Lowers perfection from Griffin Colapinto's SESSIONS edit: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gQmIdKYWMdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gQmIdKYWMdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gQmIdKYWMdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-25T19:29:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MJM5GM5jTfgT6MrHC4DUUBlqJg0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-S6Bb_sGNJM"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-28T20:15:18Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Did you know somebody owns Teahupoo? 🤔",
+        "description": "Did you know somebody owns Teahupoo? This week Red Bull Surfing travels to Tahiti to speak with the godfather of Teahupoo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-S6Bb_sGNJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-S6Bb_sGNJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-S6Bb_sGNJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-28T20:15:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0VySkAFwd01ws_Tl8EPn7CNZaW4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4VS0Zyq31cg"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-26T08:00:02Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Pre-Final Five Goals With Kanoa Igarashi",
+        "description": "Getting it over with… and then catching waves and then going home.” Chapters is BACK. Dive in now for the latest piece from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4VS0Zyq31cg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4VS0Zyq31cg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4VS0Zyq31cg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-26T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Nn-klhHLycBZ7miplDCiEfk1QmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vjFhVQgtgqs"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-20T17:15:54Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Your Full Introduction to Claims",
+        "description": "Sometimes you just can't help a good claim Griffin Colapinto and Jack Robinson break down a few of their favorites : Scotty ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vjFhVQgtgqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vjFhVQgtgqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vjFhVQgtgqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-20T17:15:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S1MBuH77QhA8u6PLS3d41WTUwIQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EmXfFNPeKC0"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-11T19:40:26Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Kai Lenny Tows into a Teahupoo CAVERN",
+        "description": "Kai Lenny Tows into a Teahupoo CAVE as seen in the recap edit from the @Surfline 20ft + session. Tune in now for the full piece: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EmXfFNPeKC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EmXfFNPeKC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EmXfFNPeKC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-11T19:40:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xxdQgdDvU7YWvm-DF4NTWOOaaSQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BGfKIxDtYqs"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-01T16:56:25Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Conor Maguire barrel marathon at Home 🇮🇪",
+        "description": "The North Atlantic has been firing and Irish charger Conor Maguire went for three BIG surfs in one day. Check our stories for a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BGfKIxDtYqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BGfKIxDtYqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BGfKIxDtYqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-01T16:56:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bOaj2gmw1RHQ3bFvwH-UaqGz_Wc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TPZ8M3aEd8I"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-05T18:44:48Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Get to Know Griffin Colapinto",
+        "description": "Get to know San Clemente's one and only Griffin Colapinto #GriffinColapinto #QandA #FreeSurfing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TPZ8M3aEd8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TPZ8M3aEd8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TPZ8M3aEd8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-05T18:44:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EPFpxZhb5axm_00Dn69VanPzyvo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OfINoocMspw"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-26T22:07:53Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Big Wave Board or Short Board? 🤔",
+        "description": "What's the difference between your traditional short board and a board made for Nazare? Kai Lenny breaks it down #KaiLenny ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OfINoocMspw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OfINoocMspw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OfINoocMspw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-26T22:07:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yq_oisU9VxpK33q1mwl5J6Q9YYc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pU31FBmkPe8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-15T16:00:36Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Conor Maguire Threads Frigid Barrels at Home",
+        "description": "Conor Maguire threads a frigid Irish cavern in his own backyard #ConorMaguire #Ireland #BigWaveSurfing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pU31FBmkPe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pU31FBmkPe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pU31FBmkPe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-15T16:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rHCozpieT7Zn6IV1NwYM3JvQaTA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EYlHiTaCoks"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-28T18:00:07Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Perfect Pipeline With Kai Lenny And The GOAT Kelly Slater!",
+        "description": "Kelly Slater joins a surf super team at Pipeline with Kai Lenny and Carissa Moore for these pumping Da Hui Backdoor Shootout ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EYlHiTaCoks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EYlHiTaCoks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EYlHiTaCoks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-28T18:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gLTsj0NhbIS1HTaT2oVKCd06Rtc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6K9WjYl-a6U"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-09T03:31:35Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "&quot;Does the channel ever close out at Mavericks?&quot;",
+        "description": "\"Does the channel ever close out?\" \"Yes it does.\" Words of wisdom from Mavs specialist Peter Mel #Mavericks #HalfMoonBay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6K9WjYl-a6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6K9WjYl-a6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6K9WjYl-a6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-09T03:31:35Z"
+      }
+    }
+  ]
+}
