@@ -1,26 +1,11 @@
-import { useEffect } from 'react';
-import useForceUpdate from '../hooks/useForceUpdate';
-
-let count = 0;
+import useCounterStore from '../hooks/useCounterStore';
 
 export default function Counter() {
-  const forceUpdate = useForceUpdate();
-
-  useEffect(() => {
-    console.log('test');
-  });
-
-  const handleClick = () => {
-    count += 1;
-    forceUpdate();
-  };
+  const store = useCounterStore();
 
   return (
     <div>
-      <p>{count}</p>
-      <button type='button' onClick={handleClick}>
-        Increase
-      </button>
+      <p>Count {store.count}</p>
     </div>
   );
 }
