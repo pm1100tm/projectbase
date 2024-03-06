@@ -25,7 +25,14 @@ module.exports = {
     },
   },
   rules: {
-    indent: ['error', 2],
+    indent: [
+      'error',
+      2,
+      {
+        SwitchCase: 1,
+        ignoredNodes: ['ConditionalExpression'],
+      },
+    ],
     'no-trailing-spaces': 'error',
     curly: 'error',
     'brace-style': 'error',
