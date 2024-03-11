@@ -37,4 +37,11 @@ describe('App', () => {
       screen.getByText('This is Career');
     });
   });
+
+  context('when route /logout', () => {
+    it('redirects to the home page', () => {
+      renderRouter('/logout');
+      screen.getByText('This is Home');
+    });
+  });
 });

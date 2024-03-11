@@ -2,6 +2,7 @@ import Layout from './components/Layout';
 import About from './pages/About';
 import Career from './pages/Career';
 import Home from './pages/Home';
+import Logout from './pages/Logout';
 
 const routes = [
   {
@@ -22,6 +23,10 @@ const routes = [
       {
         path: '/career',
         element: <Career />,
+      },
+      {
+        path: '/logout',
+        element: <Logout />,
       },
     ],
   },
