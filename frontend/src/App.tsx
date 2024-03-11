@@ -1,3 +1,4 @@
+import { Routes, Route } from 'react-router-dom';
 import About from './pages/About';
 import Home from './pages/Home';
 
@@ -5,21 +6,17 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Career from './pages/Career';
 
-const pages: Record<string, React.FC> = {
-  '/': Home,
-  '/about': About,
-  '/career': Career,
-};
-
 export default function App() {
-  const { pathname } = window.location;
-  const Pages = Reflect.get(pages, pathname) || Home;
-
   return (
     <>
       <Header />
       <main>
-        <Pages />
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/home' element={<Home />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/career' element={<Career />} />
+        </Routes>
       </main>
       <Footer />
     </>

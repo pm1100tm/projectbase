@@ -4,22 +4,17 @@ export default function Header() {
       <nav>
         <ul>
           <li>
-            <a style={{ textDecoration: 'none' }} href='/'>
-              Home
-            </a>
+            <a href='/'>Home</a>
           </li>
           <li>
-            <a style={{ textDecoration: 'none' }} href='/about'>
-              About
-            </a>
+            <a href='/about'>About</a>
           </li>
           <li>
-            <a style={{ textDecoration: 'none' }} href='/career'>
-              Career
-            </a>
+            <a href='/career'>Career</a>
           </li>
         </ul>
       </nav>
+      <hr />
     </header>
   );
 }
