@@ -1,30 +1,24 @@
-import { NavLink, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
+
+import navs from '../constants/navs';
 
 export default function Header() {
   const navigate = useNavigate();
-
-  const handleLogout = () => {
-    navigate('/logout');
+  const handleClick = (v: string) => {
+    navigate(`/${v}`);
   };
 
   return (
     <header>
       <nav>
         <ul>
-          <li>
-            <NavLink to='/home'>Home</NavLink>
-          </li>
-          <li>
-            <NavLink to='/about'>About</NavLink>
-          </li>
-          <li>
-            <NavLink to='/career'>Career</NavLink>
-          </li>
-          <li>
-            <button type='button' onClick={handleLogout}>
-              Logout
-            </button>
-          </li>
+          {navs.map((name: string) => (
+            <li key={`#nav-${name}`}>
+              <button type='button' onClick={() => handleClick(name)}>
+                {name}
+              </button>
+            </li>
+          ))}
         </ul>
       </nav>
       <hr />
