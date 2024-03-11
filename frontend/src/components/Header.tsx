@@ -1,16 +1,20 @@
+// import NavElement from './NavElement';
+
+import { Link } from 'react-router-dom';
+
 export default function Header() {
   return (
     <header>
       <nav>
         <ul>
           <li>
-            <a href='/'>Home</a>
+            <Link to='/home'>Home</Link>
           </li>
           <li>
-            <a href='/about'>About</a>
+            <Link to='/about'>About</Link>
           </li>
           <li>
-            <a href='/career'>Career</a>
+            <Link to='/career'>Career</Link>
           </li>
         </ul>
       </nav>
