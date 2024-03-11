@@ -1,6 +1,12 @@
-import { NavLink } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 
 export default function Header() {
+  const navigate = useNavigate();
+
+  const handleLogout = () => {
+    navigate('/logout');
+  };
+
   return (
     <header>
       <nav>
@@ -15,7 +21,9 @@ export default function Header() {
             <NavLink to='/career'>Career</NavLink>
           </li>
           <li>
-            <NavLink to='/logout'>Logout</NavLink>
+            <button type='button' onClick={handleLogout}>
+              Logout
+            </button>
           </li>
         </ul>
       </nav>
